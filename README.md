@@ -4,7 +4,7 @@ Stereotaxic anaesthesia mask for mouse pups
 # Introduction 
 Delivery of e.g. AAV vectors to the brain of newborn rodents is a fast and reliable technique to achieve labelling of brain cells with structural and/or functional labels. 
 However, tightly controlling the level of anaesthesia and reliably positioning the pup's head under precise stereotactic coordinates can be challenging. 
-For this, a 3D printable mouse pup holder [1] has been modified to be fitted to a KOPF stereotactic frame (Models 902 and 1900) and deliver isoflurane anaesthesia.  
+For this, a 3D printable mouse pup holder [1] has been modified in the Donato lab at Biozentrum to be fitted to a KOPF stereotactic frame (Models 902 and 1900) and deliver isoflurane anaesthesia.  
 
 # Methods
 The mask design was modified from [1] to being fitted with inlet and outlet canals for isoflurane anaesthesia and tubing connectors. 
