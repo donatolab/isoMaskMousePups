@@ -13,6 +13,7 @@ The mask was printed on a 3D printer (Formlabs Form 3) in clear resin material (
 
 # Results
 The iso-mask has been used with newborn C57BL/6Rj pups at P1 to P2, with weights ranging between 1.2 to 2.0 grams. 
+For this, the head of the mouse pup is held in place in the iso-mask nose cone for approx. 30 seconds until general anaesthesia is achieved. Anaesthesia is induced at isoflurane levels of 3-4% and maintained at 1.5-2.5%. The pup's head is affixed with surgical tape to the side walls of the iso-mask holder, and to stretch the skin ontop of the skull in order to expose the superior and transverse sinuses. The crossing point of theses sinuses above the lambdoid suture serves as reference point for stereotaxic injection coordinates. 
 
 <img width="602" alt="image" src="https://github.com/donatolab/isoMaskMousePups/assets/1842294/b47923c4-c310-4591-accb-c88121e81188">
 
